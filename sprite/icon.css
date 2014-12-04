@@ -1,0 +1,23 @@
+﻿/* glue: 0.9.4 hash: 5bbfe14d5f */
+.sprite-icon-red,.sprite-icon-green{
+    background-image:url('icon.png');
+    background-repeat:no-repeat;
+}
+
+.sprite-icon-red{
+    background-position:0 0;
+    display: block;
+    overflow: hidden;
+    padding-top: 46px;
+    height: 0;
+    width:36px;
+}
+
+.sprite-icon-green{
+    background-position:-36px 0;
+    display: block;
+    overflow: hidden;
+    padding-top: 33px;
+    height: 0;
+    width:27px;
+}
