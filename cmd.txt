@@ -1,7 +1,0 @@
-テンプレートを使う
-※2014/12現在scssとして出力する場合はテンプレートは使えないので注意
-
-$ glue source output --css-template=my_template.jinja
-
-
-

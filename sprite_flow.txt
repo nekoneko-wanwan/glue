@@ -1,0 +1,19 @@
+スプライト画像作成からscssに適用させるまでの流れ
+
+１．glueをインストール
+　　詳しくはEvernote参照。pythonは2.7をインストール
+
+２．自作したテンプレートを作成して、専用のscssを出力する
+　　※2014年12現在、optionの--scssではテンプレートは使えない
+　　※cssの記述になっていても、エラーにならずに素直に出力してくれるっぽい
+
+    $ glue source output --css-template=my_template.jinja --namespace=
+    * 自動で付く接頭辞のspriteを削除している
+
+３．splite.pngまでのpathを必要に応じて変更してやる
+４．出力cssを_sprite.scssに変更し、scssフォルダに入れる
+５．scssの方で@importしてやる
+
+
+オプション一覧
+http://creator.dena.jp/archives/29409333.html

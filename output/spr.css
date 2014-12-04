@@ -1,0 +1,315 @@
+﻿/* glue: 0.9.4 hash: fbef84ba19 */
+.spr-dish,.spr-curtain,.spr-spoon,.spr-fork,.spr-rain1,.spr-rain3,.spr-rain2,.spr-eco-safety,.spr-bg_imgFrame,.spr-tree3,.spr-balloon-delicious,.spr-chara-wk3,.spr-chara-wk2,.spr-chara-wk1,.spr-chara-st2,.spr-chara-st1,.spr-chara-fall1,.spr-chara-actA2,.spr-chara-actA1,.spr-rain6,.spr-tree1,.spr-rain7,.spr-chara-end,.spr-tree2,.spr-intro-how,.spr-intro-tasty,.spr-eco-material,.spr-rain4,.spr-balloon-what,.spr-balloon-howto,.spr-tree4,.spr-intro-material,.spr-intro-safety,.spr-rain5,.spr-confetti3,.spr-confetti1,.spr-sw-eclair,.spr-sw-roll2,.spr-sw-roll1,.spr-confetti2,.spr-sw-shu2,.spr-sw-shu1,.spr-sw-waffle,.spr-scroll{
+	background-image:url('spr.png');
+	background-repeat:no-repeat;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.spr-dish{
+	background-position:0 0;
+	padding-top: 761px;
+	height: 0;
+	width:774px;
+}
+
+.spr-curtain{
+	background-position:-774px 0;
+	padding-top: 51px;
+	height: 0;
+	width:585px;
+}
+
+.spr-spoon{
+	background-position:-774px -51px;
+	padding-top: 522px;
+	height: 0;
+	width:130px;
+}
+
+.spr-fork{
+	background-position:-904px -51px;
+	padding-top: 506px;
+	height: 0;
+	width:101px;
+}
+
+.spr-rain1{
+	background-position:-1005px -51px;
+	padding-top: 79px;
+	height: 0;
+	width:347px;
+}
+
+.spr-rain3{
+	background-position:-1005px -130px;
+	padding-top: 55px;
+	height: 0;
+	width:330px;
+}
+
+.spr-rain2{
+	background-position:-1005px -185px;
+	padding-top: 36px;
+	height: 0;
+	width:299px;
+}
+
+.spr-eco-safety{
+	background-position:-1005px -221px;
+	padding-top: 167px;
+	height: 0;
+	width:283px;
+}
+
+.spr-bg_imgFrame{
+	background-position:0 -761px;
+	padding-top: 245px;
+	height: 0;
+	width:265px;
+}
+
+.spr-tree3{
+	background-position:-1005px -388px;
+	padding-top: 138px;
+	height: 0;
+	width:246px;
+}
+
+.spr-balloon-delicious{
+	background-position:-774px -573px;
+	padding-top: 94px;
+	height: 0;
+	width:234px;
+}
+
+.spr-chara-wk3{
+	background-position:-265px -761px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-chara-wk2{
+	background-position:-495px -761px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-chara-wk1{
+	background-position:-725px -761px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-chara-st2{
+	background-position:-955px -761px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-chara-st1{
+	background-position:0 -1006px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-chara-fall1{
+	background-position:-230px -1006px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-chara-actA2{
+	background-position:-460px -1006px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-chara-actA1{
+	background-position:-690px -1006px;
+	padding-top: 160px;
+	height: 0;
+	width:230px;
+}
+
+.spr-rain6{
+	background-position:-920px -1006px;
+	padding-top: 116px;
+	height: 0;
+	width:200px;
+}
+
+.spr-tree1{
+	background-position:-1120px -1006px;
+	padding-top: 114px;
+	height: 0;
+	width:197px;
+}
+
+.spr-rain7{
+	background-position:-1008px -573px;
+	padding-top: 54px;
+	height: 0;
+	width:191px;
+}
+
+.spr-chara-end{
+	background-position:0 -1166px;
+	padding-top: 126px;
+	height: 0;
+	width:188px;
+}
+
+.spr-tree2{
+	background-position:-188px -1166px;
+	padding-top: 112px;
+	height: 0;
+	width:183px;
+}
+
+.spr-intro-how{
+	background-position:-1359px 0;
+	padding-top: 156px;
+	height: 0;
+	width:175px;
+}
+
+.spr-intro-tasty{
+	background-position:-1359px -156px;
+	padding-top: 156px;
+	height: 0;
+	width:173px;
+}
+
+.spr-eco-material{
+	background-position:-1359px -312px;
+	padding-top: 136px;
+	height: 0;
+	width:171px;
+}
+
+.spr-rain4{
+	background-position:-1359px -448px;
+	padding-top: 150px;
+	height: 0;
+	width:167px;
+}
+
+.spr-balloon-what{
+	background-position:-1359px -598px;
+	padding-top: 88px;
+	height: 0;
+	width:155px;
+}
+
+.spr-balloon-howto{
+	background-position:-1359px -686px;
+	padding-top: 88px;
+	height: 0;
+	width:155px;
+}
+
+.spr-tree4{
+	background-position:-1359px -774px;
+	padding-top: 101px;
+	height: 0;
+	width:153px;
+}
+
+.spr-intro-material{
+	background-position:-1359px -875px;
+	padding-top: 134px;
+	height: 0;
+	width:150px;
+}
+
+.spr-intro-safety{
+	background-position:-1359px -1009px;
+	padding-top: 135px;
+	height: 0;
+	width:142px;
+}
+
+.spr-rain5{
+	background-position:-1359px -1144px;
+	padding-top: 66px;
+	height: 0;
+	width:141px;
+}
+
+.spr-confetti3{
+	background-position:-1185px -761px;
+	padding-top: 130px;
+	height: 0;
+	width:140px;
+}
+
+.spr-confetti1{
+	background-position:-1251px -388px;
+	padding-top: 134px;
+	height: 0;
+	width:103px;
+}
+
+.spr-sw-eclair{
+	background-position:-1359px -1210px;
+	padding-top: 45px;
+	height: 0;
+	width:86px;
+}
+
+.spr-sw-roll2{
+	background-position:-774px -667px;
+	padding-top: 62px;
+	height: 0;
+	width:78px;
+}
+
+.spr-sw-roll1{
+	background-position:-852px -667px;
+	padding-top: 62px;
+	height: 0;
+	width:78px;
+}
+
+.spr-confetti2{
+	background-position:-1445px -1210px;
+	padding-top: 37px;
+	height: 0;
+	width:71px;
+}
+
+.spr-sw-shu2{
+	background-position:-1288px -221px;
+	padding-top: 43px;
+	height: 0;
+	width:62px;
+}
+
+.spr-sw-shu1{
+	background-position:-1288px -264px;
+	padding-top: 44px;
+	height: 0;
+	width:55px;
+}
+
+.spr-sw-waffle{
+	background-position:-1359px -1255px;
+	padding-top: 37px;
+	height: 0;
+	width:52px;
+}
+
+.spr-scroll{
+	background-position:-1288px -308px;
+	padding-top: 39px;
+	height: 0;
+	width:38px;
+}
