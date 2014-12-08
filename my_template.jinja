@@ -3,13 +3,14 @@
 	background-image:url('{{ sprite_path }}');
 	background-repeat:no-repeat;
 	display: inline-block;
+	line-height: 2;
 	overflow: hidden;
+	height: 0;
 }
 {% for image in images %}
 .{{ image.label }}{{ image.pseudo }}{
 	background-position:{{ image.x ~ ('px' if image.x) }} {{ image.y ~ ('px' if image.y) }};
 	padding-top: {{ image.height }}px;
-	height: 0;
 	width:{{ image.width }}px;
 }
 {% endfor %}
