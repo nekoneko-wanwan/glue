@@ -7,7 +7,7 @@
 　　※2014年12現在、optionの--scssではテンプレートは使えない
 　　※cssの記述になっていても、エラーにならずに素直に出力してくれるっぽい
 
-    $ glue spr output --css-template=my_template.jinja --namespace=
+    $ glue spr output --css-template=my_template.jinja --namespace= --margin=10
     * 自動で付く接頭辞のspriteを削除している
     * [spr: spriteする元画像群] [output: 出力先]
 
@@ -15,6 +15,7 @@
 ４．出力cssを_sprite.scssに変更し、scssフォルダに入れる
 ５．scssの方で@importしてやる
 
+※余白を設けないと、ブラウザで拡大した時に画像に線が表示されてしまう
 
 オプション一覧
 http://creator.dena.jp/archives/29409333.html
